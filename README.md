@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agrogan1
 - 👀 I’m interested in in developing more knowledge to reduce violence against children and Adverse Childhood Experiences (ACEs).
 - 🌱 I’m currently learning about CART and lasso models, as well as improving my knowledge of causal inference.
-- 📘 I'm currently writing about multilevel models with international data.
+- 📘 I'm currently writing about multilevel models with international data: [https://agrogan1.github.io/multilevel-thinking/](https://agrogan1.github.io/multilevel-thinking/)
 
 <!---
 agrogan1/agrogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
