@@ -5,7 +5,9 @@
      - [https://agrogan1.github.io/multilevel-multilingual/](https://agrogan1.github.io/multilevel-multilingual/)
      - [https://agrogan1.github.io/multilevel-visualization/](https://agrogan1.github.io/multilevel-visualization/)
 - 🌱 I’m learning about CART and Random Forests, as well as lasso models.
-- 🌱 I am trying to improve my knowledge of causal inference: [https://agrogan1.github.io/teaching/spruce/spruce.html](https://agrogan1.github.io/teaching/spruce/spruce.html); [https://agrogan1.github.io/multilevel-thinking/longitudinal.html#sec-causality](https://agrogan1.github.io/multilevel-thinking/longitudinal.html#sec-causality)
+- 🌱 I am trying to improve my knowledge of causal inference
+    - [https://agrogan1.github.io/teaching/spruce/spruce.html](https://agrogan1.github.io/teaching/spruce/spruce.html)
+    - [https://agrogan1.github.io/multilevel-thinking/longitudinal.html#sec-causality](https://agrogan1.github.io/multilevel-thinking/longitudinal.html#sec-causality)
 
 <!---
 agrogan1/agrogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
