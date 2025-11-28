@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @agrogan1, [https://agrogan1.github.io/](https://agrogan1.github.io/)
-- 👩‍👩‍👧‍👦 I’m interested in developing more knowledge to reduce violence against children and Adverse Childhood Experiences (ACEs).
-- 🌍 With collaborators, I have a new grant to study gender inequality, parenting and child development, using international data:  [https://globalfamilies.quarto.pub/global-families-project/](https://globalfamilies.quarto.pub/global-families-project/).
-- 📈 I do research and teaching with multilevel models in Stata and R, and more recently Julia
+- 👩‍👩‍👧‍👦  I study parenting and child development, most recently using international data, and often using multilevel models. I'm interested in reducing violence against children. I work in both Stata and R, and am trying to get better at Julia.
+- 🌍 With collaborators, I have a grant to study gender inequality, parenting and child development, using international data:  [https://globalfamilies.quarto.pub/global-families-project/](https://globalfamilies.quarto.pub/global-families-project/).
+- 📈 I do research and teaching with multilevel models in Stata and R, and more recently Julia.
+- 📘 I've recently published a book on Multilevel Models: [https://agrogan1.github.io/posts/multilevel-thinking/](https://agrogan1.github.io/posts/multilevel-thinking/)
 - 🌱 I’m trying to figure out new ways to share and disseminate the research that my Team does.
     - [ArcGIS StoryMaps](https://arcg.is/0uzKv)
     - [`closeread` *scrollytelling*](https://agrogan1.github.io/closeread/)
