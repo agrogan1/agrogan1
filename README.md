@@ -3,7 +3,7 @@
 - 🌍 With collaborators, I have a grant to study gender inequality, parenting and child development, using international data:  [https://globalfamilies.quarto.pub/global-families-project/](https://globalfamilies.quarto.pub/global-families-project/).
 - 📈 I do research and teaching with multilevel models in Stata and R, and more recently Julia.
 - 📘 I've recently published a book on Multilevel Models: [https://agrogan1.github.io/posts/multilevel-thinking/](https://agrogan1.github.io/posts/multilevel-thinking/).
-- 🌱 I’m trying to figure out new ways to share and disseminate the research that my Team does.
+- 🌱 I’m trying to figure out new ways to share and disseminate the research that the Teams that I am a part of do.
     - [ArcGIS StoryMaps](https://arcg.is/0uzKv)
     - [`closeread` *scrollytelling*](https://agrogan1.github.io/closeread/)
 - 🌱 I am trying to improve my knowledge of causal inference
